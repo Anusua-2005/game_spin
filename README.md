@@ -48,7 +48,4 @@ This project is perfect for developers who are learning Solidity, randomness han
 ## 🧠 Smart Contract Code
 <img width="1821" height="873" alt="Screenshot 2025-10-29 150545" src="https://github.com/user-attachments/assets/91e1876d-57e9-4939-8a2f-0ec87599c540" />
 
-```solidity
-//paste your code
-<img width="1821" height="873" alt="Screenshot 2025-10-29 150545" src="https://github.com/user-attachments/assets/b70d7ad6-91de-456c-9f7d-19ce5f0569b5" />
-# game_spin
+contract address: 0xfd247F6867263B33F16e1757E6b871A3a020E54
